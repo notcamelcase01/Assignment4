@@ -1,0 +1,12 @@
+# Ignore everything
+*
+
+# But not these files...
+!.gitignore
+!Integration_Question3.ipynb
+!ODE_Question4.ipynb
+!Question1_NR.ipynb
+!Question2_MultiDimensionsNR.ipynb
+# etc...
+
+!*/output_data*
