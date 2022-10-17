@@ -18,7 +18,7 @@ Assignment made jupyter noteboooks,
 
 
 **Notes**
-- All data is stored in commma separated files (*.csv)
+- All data is stored in comma separated value files (*.csv)
 - Tables in PDF aren't captured because of smaller horizontal size of A4 page. Refer to `output_data`
 
 
