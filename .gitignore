@@ -1,7 +1,6 @@
-# Ignore everything
 *
 
-# But not these files...
+
 !.gitignore
 !Integration_Question3.ipynb
 !ODE_Question4.ipynb
@@ -13,5 +12,5 @@
 !output_data/rk.csv
 !output_data/trap.csv
 !output_data/SimpingForNami.csv
-# etc...
+
 
